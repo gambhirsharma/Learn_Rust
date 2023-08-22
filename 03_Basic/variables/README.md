@@ -24,3 +24,7 @@ example:
 ```
 const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
 ```
+
+Rust’s naming convention for constants is to use all uppercase with underscores between words.
+
+## mut vs shadowing
